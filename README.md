@@ -2,7 +2,7 @@
 A sleek, responsive, and fully functional web-based calculator built using Vanilla JavaScript, HTML5, and CSS3. This project demonstrates DOM manipulation, event handling, and clean UI design principles.
 
 📸 Preview
-(Make sure your image is named screenshot.png and is in the main folder of your repository!)
+![Calculator Screenshot](./screenshot.png)
 
 ✨ Features
 Basic Arithmetic: Supports Addition, Subtraction, Multiplication, and Division.
